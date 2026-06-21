@@ -1,0 +1,3 @@
+Invoice sample
+Customer: Demo Customer
+Amount: $100

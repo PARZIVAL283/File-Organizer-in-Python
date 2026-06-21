@@ -1,0 +1,2 @@
+Demo photo placeholder text.
+This file is used to test file organization.
